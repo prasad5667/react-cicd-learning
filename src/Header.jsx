@@ -4,7 +4,7 @@ const Header = () => {
     return (
         <>
             <header>
-                <div className="logo">ShopEase Website</div>
+                <div className="logo">ShopEase E-Commerce</div>
                 <nav>
                     <a href="#">Home</a>
                     <a href="#">Products</a>
